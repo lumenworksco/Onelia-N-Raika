@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+onelianraika.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+onelianraika.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_df101e5a7c62dfd238de07e527bd4112	t_bb994a85f5aeb6dea042bf0f5c98cb%7C%7C1769432602%7C%7C1769429002%7C%7Cd7c7d32bbde4776f695be807df1ad595
+onelianraika.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	62a6e6aadc030be78e7d6e808dcca7ce
+

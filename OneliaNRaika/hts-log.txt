@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Jan 2026 13:56:41 at https://onelianraika.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://onelianraika.com/ -O1 "C:\Users\flori\Documents\Onelia-N-Raika\OneliaNRaika" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:57:06	Error: 	"Forbidden" (403) at link https://onelianraika.com/xmlrpc.php?rsd (from https://onelianraika.com/)
+14:03:25	Warning: 	Moved Permanently for https://onelianraika.com/index.php/about/
+14:03:25	Warning: 	File has moved from https://onelianraika.com/index.php/about/ to https://onelianraika.com/index.php/about-us/
+14:03:26	Error: 	"Bad Request" (400) at link https://onelianraika.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://onelianraika.com/)
+14:03:28	Warning: 	Moved Permanently for https://onelianraika.com/?p=551
+14:03:28	Warning: 	File has moved from https://onelianraika.com/?p=551 to https://onelianraika.com/index.php/blog-2-0/
+14:03:32	Warning: 	Moved Permanently for https://onelianraika.com/?p=464
+14:03:32	Warning: 	File has moved from https://onelianraika.com/?p=464 to https://onelianraika.com/index.php/about-us/
+14:03:32	Warning: 	Moved Permanently for https://onelianraika.com/?p=584
+14:03:32	Warning: 	File has moved from https://onelianraika.com/?p=584 to https://onelianraika.com/index.php/inspiration/
+14:03:32	Warning: 	Moved Permanently for https://onelianraika.com/?p=32
+14:03:32	Warning: 	File has moved from https://onelianraika.com/?p=32 to https://onelianraika.com/index.php/privacy-policy-2/
+14:03:33	Warning: 	Moved Permanently for https://onelianraika.com/?p=26
+14:03:33	Warning: 	File has moved from https://onelianraika.com/?p=26 to https://onelianraika.com/index.php/contact/
+14:03:53	Warning: 	Moved Permanently for https://onelianraika.com/?p=369
+14:03:53	Warning: 	File has moved from https://onelianraika.com/?p=369 to https://onelianraika.com/index.php/my-account/
+14:03:54	Warning: 	Moved Permanently for https://onelianraika.com/?p=536
+14:03:54	Warning: 	File has moved from https://onelianraika.com/?p=536 to https://onelianraika.com/index.php/2025/05/08/raika-and-the-garden-adventure/
+14:03:56	Warning: 	Moved Permanently for https://onelianraika.com/?p=318
+14:03:56	Warning: 	File has moved from https://onelianraika.com/?p=318 to https://onelianraika.com/index.php/2025/04/02/2/
+14:03:56	Warning: 	Moved Permanently for https://onelianraika.com/?p=316
+14:03:56	Warning: 	File has moved from https://onelianraika.com/?p=316 to https://onelianraika.com/index.php/2025/04/02/1/
+14:03:56	Warning: 	Moved Permanently for https://onelianraika.com/?p=1
+14:03:56	Warning: 	File has moved from https://onelianraika.com/?p=1 to https://onelianraika.com/index.php/2025/02/26/hello-world/
+14:03:58	Warning: 	Moved Permanently for https://onelianraika.com/?p=684
+14:03:58	Warning: 	File has moved from https://onelianraika.com/?p=684 to https://onelianraika.com/index.php/product/cat-toy-mouse/
+14:03:59	Warning: 	Moved Permanently for https://onelianraika.com/?p=367
+14:03:59	Warning: 	File has moved from https://onelianraika.com/?p=367 to https://onelianraika.com/index.php/cart/
+14:03:59	Warning: 	Moved Permanently for https://onelianraika.com/?p=437
+14:03:59	Warning: 	File has moved from https://onelianraika.com/?p=437 to https://onelianraika.com/index.php/product/cat-ceramic-bowl/
+14:03:59	Warning: 	Moved Permanently for https://onelianraika.com/?p=688
+14:03:59	Warning: 	File has moved from https://onelianraika.com/?p=688 to https://onelianraika.com/index.php/product/cozy-cat-bed/
+14:04:00	Warning: 	Moved Permanently for https://onelianraika.com/?p=690
+14:04:00	Warning: 	File has moved from https://onelianraika.com/?p=690 to https://onelianraika.com/index.php/product/dog-chew-toy/
+14:04:01	Warning: 	Moved Permanently for https://onelianraika.com/?p=439
+14:04:01	Warning: 	File has moved from https://onelianraika.com/?p=439 to https://onelianraika.com/index.php/product/flower-dog-leash/
+14:04:01	Warning: 	Moved Permanently for https://onelianraika.com/?p=420
+14:04:01	Warning: 	File has moved from https://onelianraika.com/?p=420 to https://onelianraika.com/index.php/product/pink-dog-collar/
+14:04:02	Warning: 	Moved Permanently for https://onelianraika.com/?p=368
+14:04:02	Warning: 	File has moved from https://onelianraika.com/?p=368 to https://onelianraika.com/index.php/checkout/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 21 seconds : 343 links scanned, 321 files written (38496280 bytes overall) [27170025 bytes received at 61610 bytes/sec], 15051048 bytes transferred using HTTP compression in 268 files, ratio 23%, 12.2 requests per connection
+(2 errors, 38 warnings, 0 messages)
